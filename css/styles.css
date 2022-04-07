@@ -41,6 +41,10 @@ body {
   letter-spacing: 0.03em;
 }
 
+img {
+  display: block;
+}
+
 .link {
   text-decoration: none;
   font-style: normal;
